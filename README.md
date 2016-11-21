@@ -5,6 +5,7 @@ This is my first git from terminal
 
 this is anothere change
 
+bug reported fixed
 learnign pull
 I will do pull from local to remote. And I think it is call push
 Shomething
